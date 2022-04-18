@@ -1,6 +1,6 @@
 # Brew Talk App
 
-### Open "Prototype.pdf" above for final prototype reference
+### Open ["Prototype.pdf"](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Prototype.pdf) above for final prototype reference
 
 ##### Jan 2021 – March 2021
 ### [Demo Video for Brew Talk App](https://youtu.be/GERbIM2EmcI)
