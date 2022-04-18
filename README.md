@@ -1,7 +1,7 @@
 # Tiffany Streitenberger Design and Research Portfolio
 
 ## About Me
-I have a B.S. in Cognitive Science and Minor in Computer Science from UCSD. Pursuing a future to improve education in the community through technology innovations. I especially enjoy the creatives aspects of computer science and technology through visualizations and data representations. I strive to learn something new every day to keep growing my perspectives and values!
+B.S. in Cognitive Science and Minor in Computer Science from UCSD. Pursuing a future to improve education in the community through technology innovations. I especially enjoy the creatives aspects of computer science and technology through visualizations and data representations. I love to listen and learn different perspectives and channel my inner creativity to design improvements. I strive to learn something new every day to keep growing my perspectives and values!
 
 ## Table of Context
 
