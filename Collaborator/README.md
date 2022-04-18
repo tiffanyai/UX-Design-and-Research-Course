@@ -1,4 +1,4 @@
-# Brew Talk App
+# Collaborator App
 
 ##### Jan 2021 – PRESENT
 ### [Demo Video for Collaborator App](https://youtu.be/FIa_14KQVTU)
