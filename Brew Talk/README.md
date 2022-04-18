@@ -10,7 +10,14 @@
 Brew Talk is an app I designed based on months of research, user testing, and concept ideation techniques. Through input from student coffee lovers, I uncovered that coffee does not represent just a drink for people to stay awake. Cafes and coffee encapsulates a place for: socilization, solitude, study, relaxation, aesthetics, different aromas, and much more.
 
 ## Methods Used: 
-Brainstorm (suspected problem & hypothesis), User Interviews, Affinity Mapping (Figma), UX Personas (Figma), Redefining Problem, New Brainstorm Space, UX Storyboarding, Wireframes (Happy Path - Figma), Create Interactive Prototype (Figma), and Presenting Case Study.
+- Brainstorm (suspected problem & hypothesis)
+- User Interviews, Affinity Mapping (Figma)
+- UX Personas (Figma), Redefining Problem
+- New Brainstorm Space
+- UX Storyboarding
+- Wireframes (Happy Path - Figma)
+- Create Interactive Prototype (Figma)
+- Presenting Case Study.
 
 ## App Concept:
 This app is meant to create an "at home cafe experience". Many interviewees voiced their love of cafes, however their concern for how expensive it is and how inefficient it is to go there. With Brew Talk, there are many different features that emulate the cafe experience:
