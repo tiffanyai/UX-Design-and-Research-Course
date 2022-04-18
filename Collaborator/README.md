@@ -8,7 +8,8 @@
 Collaboration is based on [when2meet](https://www.when2meet.com/): a free web based application that finds the best times for a group to meet that is simple and easy to use. Even with such a basic concept, a good, user friendly, and free scheduling application is hard to come by. With my appreciation of when2meet, I wanted to see if I could take all the great aspects of when2meet, learn the pain points, and then create an app that encompases those great aspects and new suggestions. This is where I developed a design for Collaboration.
 
 ## Process:
-***DMAD 501***
+***DMAD 501 Course***
+
 1. Analyzing applications through ease of use and overall experience
 2. User interview (creating a user interview field guide, finding participants, conduct interviews, user notes, etc)
 3. Synthesize Research
@@ -16,7 +17,9 @@ Collaboration is based on [when2meet](https://www.when2meet.com/): a free web ba
 5. Create User Persona
 6. User Journey Map
 
-***DMAD 503***
+
+***DMAD 503 Course***
+
 7. Narrowing down a specific feature to design
 8. Research analogous Features 
 9. User Stories
