@@ -1,5 +1,6 @@
-# UX-Design-and-Research-Course
+# Tiffany Streitenberger Design and Research Portfolio
 
+### UX-Design-and-Research-Course
 ### Jan - March 2022
 **DMAD 500**: An introduction to the fundamentals of user experience design. Concepts like usability and interaction design principles and processes will be covered. Students will learn to use today’s industry standard software to create simple prototypes.
 #### Grade Earned: A
