@@ -31,3 +31,6 @@ This app is meant to create an "at home cafe experience". Many interviewees voic
 - View "Study Buddy Schedule" to setup or preview appointments
   - **Study Buddy** is a system that allows you to study with someone (for people who enjoy the company of others when studying -- that they usually do at cafes)
 - View different types of people that are active to set up a Study Buddy call
+
+
+### [Final Presentation](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk/Final%20Presentation.pdf)
