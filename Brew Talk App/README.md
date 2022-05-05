@@ -11,7 +11,7 @@ Brew Talk is an app I designed based on months of research, user testing, and co
 
 ## Methods Used: 
 - Brainstorm (suspected problem & hypothesis)
-- User Interviews, Affinity Mapping (Figma)
+- User Interviews, [Affinity Mapping (Figma)](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/Analyzed%20Interviews%20-%20Figma.pdf)
 - UX Personas (Figma), Redefining Problem
 - New Brainstorm Space
 - UX Storyboarding
