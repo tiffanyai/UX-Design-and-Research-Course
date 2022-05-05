@@ -11,12 +11,14 @@ Brew Talk is an app I designed based on months of research, user testing, and co
 
 ## Methods Used: 
 - Brainstorm (suspected problem & hypothesis)
-- User Interviews, [Affinity Mapping (Figma)](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/Analyzed%20Interviews%20-%20Figma.pdf)
+- User Interviews
+- [Affinity Mapping (Figma)](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/Analyzed%20Interviews%20-%20Figma.pdf)
 - UX Personas (Figma), Redefining Problem
 - New Brainstorm Space
-- UX Storyboarding
-- Wireframes (Happy Path - Figma)
-- Create Interactive Prototype (Figma)
+- [UX Storyboarding](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/UX%20Storyboard.pdf)
+- [Wireframes - Figma](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/Wireframes.pdf)
+- [Happy Path](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/Happy%20Path%20Flow.pdf)
+- [Create Interactive Prototype (Figma)](https://github.com/tiffanyai/UX-Design-and-Research-Portfolio/blob/main/Brew%20Talk%20App/Ideation%20for%20Brew%20Talk%20Process/User%20Persona.png)
 - Presenting Case Study.
 
 ## App Concept:
